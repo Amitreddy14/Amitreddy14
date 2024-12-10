@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Amit Reddy.<br><br>🧑‍🎓 I am currently pursuing a B.Tech in Computer Science and Engineering.<br><br>🔭 I am keen to collaborate in data science and analytics to broaden my expertise.<br><br>💻 I am eager to assist with technical challenges and am committed to continuous learning from peers.<br><br>🎯 I am currently focusing on full stack development, analytic tools, and data structures and algorithms.<br><br>🧠 Feel free to ask me about any technical topics or my academic pursuits.<br><br>⭐ Fun fact: I am always ready and enthusiastic about learning.
+👋 Hi, I'm Amit Reddy.<br><br>🧑‍🎓 I am currently pursuing a B.Tech in Computer Science and Engineering with Specialization in Big Data Analysis.<br><br>🔭 I am keen to collaborate in Machine Learning and Data Science to broaden my expertise.<br><br>💻 I am eager to assist with technical challenges and am committed to continuous learning from peers.<br><br>🎯 I am currently working on full stack development, analytic tools, and Machine Learning Algorithms.<br><br>🧠 Feel free to ask me about any technical topics or my academic pursuits.<br><br>⭐ Fun fact: I am always ready and enthusiastic about learning and Researching.
 
 
 ## 🌐 Socials:
