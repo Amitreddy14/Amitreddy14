@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-Year Computer Science Student<br>💻 Aspiring Software Engineer passionate about building useful and scalable applications.<br>🔭 Currently working on improving my Development, DSA, and problem-solving skills.<br>🌱 Exploring Cloud Computing, System Design, and Backend Development.<br>🤝 Open to collaborating on interesting projects and Open Source contributions.<br>💬 Ask me about Java, Python, DSA, DBMS, OS, and Computer Networks.<br>🎯 Currently focused on securing a Software Engineering role and continuously improving my technical skills.<br>⚡ Fun fact: I can spend hours understanding how technology works behind the scenes!
+🎓 Final-Year Computer Science Student<br>💻 Aspiring Software Engineer and Data Scientist passionate about building useful and scalable applications.<br>🔭 Currently working on improving my Development, DSA, and problem-solving skills.<br>🌱 Exploring Cloud Computing, System Design, and Backend Development.<br>🤝 Open to collaborating on interesting projects and Open Source contributions.<br>💬 Ask me about Java, Python, DSA, DBMS, OS, and Computer Networks.<br>🎯 Currently focused on securing a Software Engineering role and continuously improving my technical skills.<br>⚡ Fun fact: I can spend hours understanding how technology works behind the scenes!
 
 
 ## 🌐 Socials:
